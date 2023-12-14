@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi guys! 👋 It's me Atikshya Gurung!
 
-<!--
-**atikshyagurung/atikshyagurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate UI/UX Designer and Programmer currently studying BCA at Tribhuvan University, Nepal.
 
-Here are some ideas to get you started:
+### Skills
+- HTML ![HTML](https://img.shields.io/badge/HTML-5-red)
+- CSS ![CSS](https://img.shields.io/badge/CSS-3-blue)
+- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- PHP ![PHP](https://img.shields.io/badge/PHP-7.4-purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- UI/UX Design
+- Web Development
+- Programming
+
+### Connect with Me
+- LinkedIn: [Atikshya Gurung](https://www.linkedin.com/in/atikshya-gurung-0482852a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Portfolio: [Portfolio Website](https://www.atikshya.com.np/)
+
+Feel free to reach out to me for collaboration or just to say hi! 😊
